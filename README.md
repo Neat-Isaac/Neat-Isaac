@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - ❤️ I learned Python.
 - 💞️ I’m looking to collaborate on small projects
-- 📫 How to reach me? I do not know
+- 📫 How to contact me? I do not know
 
 <!---
 Neat-Isaac/Neat-Isaac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
