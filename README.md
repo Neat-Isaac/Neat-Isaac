@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neat-Isaac
 - 👀 I’m interested in back-end development
-- 🌱 I’m currently learning C++
+- 🌱 I’m learning C++
 - ❤️ I learned Python.
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to contact me? I do not know
