@@ -7,7 +7,7 @@
 - 📫 How to contact me? expensive_12345@163.com;
 - You can see semicolon at the end of every line;
 - Yes,I am a faithful C++ user;
-- And I think it's heretical for curly braces not to feed line;
+- And I think it's heretical not to type curly brace at the next line;
 ```
 To follow the path:
 look to the master,
